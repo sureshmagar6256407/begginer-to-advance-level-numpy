@@ -1,3 +1,9 @@
-import random
-random_Choice = random.randint(1,5)
-print(random_Choice)
+#how to download numy libraries
+
+# STEP-1
+# OPEN TERMINAL
+
+#STEP- 2 
+#pip install numpy
+
+# then it's gona download and use 
