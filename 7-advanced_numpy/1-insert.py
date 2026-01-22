@@ -9,5 +9,5 @@ axis - axis along which to insert the new value (default is None, which flattens
 import numpy as np  
 arr = np.array ([10,30,29,40,29])
 print(arr)
-new_arr  = np.insert(arr ,2,50,axis=None)
+new_arr  = np.insert(arr ,2,[49,20],axis=None)
 print(new_arr)
